@@ -1,0 +1,39 @@
+doctype html
+html
+
+  head
+    meta(charset='utf8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge, chrome=1')
+    meta(name='description', content='Mexico')
+    meta(name='author', content= "Paul Cravayat")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    
+    //- Favicon
+    link(rel='icon', sizes='16x16 32x32 96x96 128x128', href='/favicon.ico')
+    link(rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon.png")
+
+    //- meta(property="og:url" content="")
+    meta(property="og:title" content="Mexico")
+    meta(property="og:description" content="Cartes postales sonores d'un voyage au Mexique")
+    meta(property="og:image" content="/img/share.png")
+
+    //- Twitter card infos
+    meta(name="twitter:card" content="summary_large_image")
+    meta(name="twitter:title" content="Mexico")
+    meta(name="twitter:description" content="Cartes postales sonores d'un voyage au Mexique")
+    meta(name="twitter:image" content="/img/share.png")
+    title SLASHSLASH
+    != css()
+
+  body
+
+    block vars
+
+    include templates/footer
+    block content
+    include templates/footer
+
+    script(src="/js/lib/analytics.js")
+    script(src="/js/templates.js")    
+    script(src="/js/lib/snap.svg-min.js")
+    script(src='/js/build.js')

@@ -1,0 +1,66 @@
+// VARIABLES
+$dark-blue : #002246 ; 
+$blue : #2E78CB ; 
+$gray : gray ; 
+$twitter : #00aced ; 
+$linkedin : #007bb5 ;
+
+$apo : #262419 ; 
+$dior : #8DB0D8 ; 
+$gn : #0E0E0E ;
+$pav : #042574 ;
+$sally : #30B89C ;
+
+// MIXIN
+
+@mixin transition($args) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin rotate($x:25deg) {
+  -webkit-transform: rotate($x);
+  -moz-transform:    rotate($x);
+  -ms-transform:     rotate($x);
+  -o-transform:      rotate($x);
+}
+
+@mixin translate3d($x, $y:0, $z:0) {
+  -webkit-transform: translate3d($x, $y, $z);
+  -moz-transform:    translate3d($x, $y, $z);
+  -ms-transform:     translate3d($x, $y, $z);
+  -o-transform:      translate3d($x, $y, $z);
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  -webkit-background-clip: padding-box; /* stops bg color from leaking outside the border: */
+  -moz-background-clip:    padding; 
+  background-clip:         padding-box;
+}
+
+@mixin vertical-align {
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+@mixin horizontal-align {
+  left:50% ; 
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+}
+
+@mixin centered-align {
+  top: 50%;
+  left:50% ; 
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+}

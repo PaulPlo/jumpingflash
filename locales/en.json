@@ -1,0 +1,84 @@
+{
+	"linkLang" : "/fr", 
+	"txtLang" : "Qu'est ce que c'est que ce charabia ?",
+	
+	"intro1" : "I’m Paul Cravayat, a <strong>front-end developer</strong> & <strong>UX designer</strong>. I craft digital interfaces for people, with strong emphasis on design, typography and animations.",
+	"intro2": "After spending a few years in agencies in Paris, Madagascar and Cambodia, I’m currently based in sunny <strong>Marseille</strong> and working as a freelancer.",
+	"findme": "find me on",
+
+	"titleProject" : "selected projects",
+
+	"titleApo" : "Apocalypse WWI",
+	"txtApo" : "double-screen experience for backing up broadcast of Apocalypse documentary on French TV.",
+	"titleDior" : "Dior Homme",
+	"txtDior" : "Temporary website for the launch of the advertising campaign of Dior Homme flagrances.",
+	"titleSally" : "In the can - sally",
+	"txtSally" : "Interactive music video for the band \"In the Can\". Hold on space bar to turn the wheel and discover all the scenes !",
+	"titleGn" : "guillaume nicollet",
+	"txtGn" : "Portfolio of Guillaume Nicollet, artistic director at ultranoir agency.",
+	"titlePav" : "pavillon de l'arsenal",
+	"txtPav" : "Interactive installation in the museum of urbanism of Paris, for the \"Nuits Blanches\" festival",
+	
+	"detail-apo" : {
+		"title" : "Apocalypse : World War I",
+		"p1" : "double-screen experience for backing up broadcast of Apocalypse documentary on French TV.",
+		"p2" : "Today, even if the TV-connected part is not active anymore, the website is still live, and now serves as document database. Feel free to <a href=\"http://apocalypse.france2.fr/premiere-guerre-mondiale\" target=\"_blank\">have a look</a>",
+		"imgs" : [
+			"apo1.jpg",
+			"apo2.jpg",
+			"apo3.jpg",
+			"apo4.jpg"
+		]
+	},
+
+	"detail-dior" : {
+		"title" : "dior homme",
+		"p1" : "Temporary website for the launch of the advertising campaign of Dior Homme flagrances.",
+		"p2" : "",
+		"imgs" : [
+			"dior1.jpg",
+			"dior2.jpg",
+			"dior3.jpg",
+			"dior4.jpg"
+		]
+	},
+
+	"detail-sally" : {
+		"title" : "Sally - In the can",
+		"p1" : "Interactive music video for the band \"In the Can\".",
+		"p2" : "Hold on space bar to turn the wheel and discover all the scenes : <a href=\"http://www.inthecansally.com/\" target=\"_blank\">try it !</a>",
+		"imgs" : [
+			"sally0.jpg",
+			"sally1.jpg",
+			"sally2.jpg",
+			"sally3.jpg"
+		]
+	},
+
+	"detail-gn" : {
+		"title" : "Guillaume Nicollet Portfolio",
+		"p1" : "Portfolio of Guillaume Nicollet, artistic director at ultranoir agency.",
+		"p2" : "",
+		"imgs" : [
+			"gn0.jpg",
+			"gn1.jpg",
+			"gn2.jpg",
+			"gn3.jpg"
+		]
+	},
+
+	"detail-pav" : {
+		"title" : "Pavillon de l'arsenal",
+		"p1" : "Interactive installation in the museum of urbanism of Paris, for the \"Nuits Blanches\" festival.",
+		"p2" : "",
+		"imgs" : [
+			"pav1.jpg",
+			"pav2.jpg",
+			"pav3.jpg",
+			"pav4.jpg"
+		]
+	},
+
+	"titleContact" : "get in touch",
+	"txtContact" : "I’m available as a freelance for projects and collaborations. I’d be glad to <a href='mailto:paulcravayat@gmail.com''>talk about it</a>."
+}

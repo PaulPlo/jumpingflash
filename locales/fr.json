@@ -1,0 +1,84 @@
+{
+	"linkLang" : "/",
+	"txtLang" : "What's all this french nonsense ?",
+	
+	"intro1" : "Je m'appelle Paul Cravayat, <strong>développeur web</strong> & <strong>UX designer</strong>. Je crée des interfaces digitales : sites web, app, installations numériques ou objets connectés, dans un soucis d'accessibilité, en mettant l'emphase sur le design, la typographie et l'animation.",
+	"intro2" : "Après plusieurs années en agence de communication digitale, à Paris, au Cambodge et à Madagascar, je suis maintenant basé à <strong>Marseille</strong>, d'où je travaille en freelance.",
+	"findme" : "retrouvez-moi sur",
+
+	"titleProject" : "projets selectionnés",
+
+	"titleApo" : "Apocalypse 1ère GM",
+	"txtApo" : "experience double écran en support de la diffusion du documentaire Apocalypse sur France 2",
+	"titleDior" : "Dior Homme",
+	"txtDior" : "site évènementiel pour le lancement de la campagne de promotion des parfums Dior Homme",
+	"titleSally" : "In the can - Sally",
+	"txtSally" : "Clip interactif pour le groupe \"In the Can\". Appuyez sur la barre espace pour faire tourner la roue et découvrir toutes ses facettes !",
+	"titleGn" : "Guillaume Nicollet",
+	"txtGn" : "Portfolio animé pour Guillaume Nicollet, directeur artistique à ultranoir.",
+	"titlePav" : "Pavillon de l'Arsenal",
+	"txtPav" : "Installation interactive et connectée de 80m², dans le cadre des Nuits Blanches à Paris.",
+
+	"detail-apo" : {
+		"title" : "Apocalypse : la Première Guerre Mondiale",
+		"p1" : "Experience double écran en support de la diffusion du documentaire Apocalypse sur France 2",
+		"p2" : "Aujourd'hui, même si l'aspect connecté n'est plus actif, le site est toujours en ligne, et sert de base documentaire.N'hésitez pas à y <a href=\"http://apocalypse.france2.fr/premiere-guerre-mondiale\" target=\"_blank\">jeter un oeil</a>",
+		"imgs" : [
+			"apo1.jpg",
+			"apo2.jpg",
+			"apo3.jpg",
+			"apo4.jpg"
+		]
+	},
+
+	"detail-dior" : {
+		"title" : "dior homme",
+		"p1" : "Site évènementiel pour le lancement de la campagne de promotion des parfums Dior Homme",
+		"p2" : "",
+		"imgs" : [
+			"dior1.jpg",
+			"dior2.jpg",
+			"dior3.jpg",
+			"dior4.jpg"
+		]
+	},
+
+	"detail-sally" : {
+		"title" : "Sally - In the can",
+		"p1" : "Clip interactif pour le groupe \"In the Can\".",
+		"p2" : "Appuyez sur la barre espace pour faire tourner la roue et découvrir toutes ses facettes : <a href=\"http://www.inthecansally.com/\" target=\"_blank\">essayez</a> !",
+		"imgs" : [
+			"sally0.jpg",
+			"sally1.jpg",
+			"sally2.jpg",
+			"sally3.jpg"
+		]
+	},
+
+	"detail-gn" : {
+		"title" : "Guillaume Nicollet Portfolio",
+		"p1" : "Portfolio animé pour Guillaume Nicollet, directeur artistique à ultranoir.",
+		"p2" : "",
+		"imgs" : [
+			"gn0.jpg",
+			"gn1.jpg",
+			"gn2.jpg",
+			"gn3.jpg"
+		]
+	},
+
+	"detail-pav" : {
+		"title" : "Pavillon de l'arsenal",
+		"p1" : "Installation interactive et connectée de 80m², dans le cadre des Nuits Blanches à Paris.",
+		"p2" : "",
+		"imgs" : [
+			"pav1.jpg",
+			"pav2.jpg",
+			"pav3.jpg",
+			"pav4.jpg"
+		]
+	},
+	
+	"titleContact" : "contactez-moi",
+	"txtContact" : "Je suis disponible en tant que freelance pour des projets, collaborations ou expérimentations. Je serai ravi <a href='mailto:paulcravayat@gmail.com'>d'en discuter</a>."
+}
