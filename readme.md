@@ -1,17 +1,14 @@
-# Project Name
+# Jumping Flash
 
-Project description
+My minimal project template for roots  
 
-### Setup
+### Installation
 
-- make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
-- clone this repo down and `cd` into the folder
-- run `npm install`
-- run `roots watch`
-- ???
-- get money
+```sh
+$ roots tpl add jumpingflash https://github.com/PaulPlo/jumpingflash
+```
 
-### Deploying
+### Options
 
-- If you just want to compile the production build, run `roots compile -e production` and it will build to public.
-- To deploy your site with a single command, run `roots deploy -to XXX` with `XXX` being whichever [ship](https://github.com/carrot/ship#usage) deployer you want to use.
+- **name** (name of template)
+- **description** (a short description of the template)
